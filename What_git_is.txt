@@ -1,0 +1,2 @@
+Git is significant tool for developers to communicate with team, to communicate with other developers,  to synchronize code, to
+keep from mistakes
